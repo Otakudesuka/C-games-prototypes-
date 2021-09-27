@@ -1,7 +1,7 @@
 # C-games-prototypes-
 
 This game is made by using the monogame engine.
-this are some screenshots of the game : 
+This are some screenshots of the game : 
 
 ![LonelyLigoScreenshot5](https://user-images.githubusercontent.com/67305202/134950775-40d7057e-3168-4ce7-870e-bd11e3b302fb.png)
 
